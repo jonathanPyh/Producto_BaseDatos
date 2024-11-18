@@ -1,5 +1,5 @@
 import pyodbc
-server = 'LAPTOP-C9U1MOE1\SQLEXPRESS'
+server = 'sql.server'
 database = 'base_datos'
 user ='sa'
 password='123456'
